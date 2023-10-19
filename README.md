@@ -1,10 +1,10 @@
 # Necklace
 ..unkn0wnteam..
 
-<b></b>pkg update
-<b></b>pkg upgrade
-<b></b>pkg install git
-<b></b>pkg install python3
-git clone https://github.com/unkn0wnteam/Necklace
-<b></b>cd Necklace
-<b></b>python3 Necklace.py
+<b></b>pkg update<p>
+<b></b>pkg upgrade<p>
+<b></b>pkg install git<p>
+<b></b>pkg install python3<p>
+git clone https://github.com/unkn0wnteam/Necklace<p>
+<b></b>cd Necklace<p>
+<b></b>python3 Necklace.py<p>
