@@ -7,4 +7,4 @@
 <b></b>pkg install python3<p>
 git clone https://github.com/unkn0wnteam/Necklace<p>
 <b></b>cd Necklace<p>
-<b></b>python3 Necklace.py<p>
+<b></b>python3 necklace.py<p>
